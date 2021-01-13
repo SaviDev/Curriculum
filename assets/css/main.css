@@ -3107,8 +3107,8 @@
 			}
 
 		.wrapper.style2 {
-			background-color: #3498db;
-			color: #aed6f1;
+			background-color: #424446;
+			color: #d9dbdb;
 		}
 
 			.wrapper.style2 input, .wrapper.style2 select, .wrapper.style2 textarea {
@@ -3319,7 +3319,7 @@
 			}
 
 			.wrapper.style2 .image {
-				box-shadow: 0px 0px 0px 7px #3498db, 0px 0px 0px 8px rgba(255, 255, 255, 0.25);
+				box-shadow: 0px 0px 0px 7px #505355, 0px 0px 0px 8px rgba(255, 255, 255, 0.25);
 			}
 
 		@media screen and (max-width: 1280px) {
